@@ -1,0 +1,7 @@
+﻿"M2EinschmelzGewindeDurchmesser"=3.4
+"M2EinschmelzGewindeTiefe"= 4.0
+"M3EinschmelzGewindeDurchmesser"= 4.2
+"M3EinschmelzGewindeTief"= 5.7
+"M2SchraubeLoch"=2.3
+"M3SchraubeLoch"=3.3
+"offSetVonGummiReifen"= 3.0
